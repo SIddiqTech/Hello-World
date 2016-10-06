@@ -1,2 +1,4 @@
 # Hello-World
-Startong FreeCodeCamp
+Starting FreeCodeCamp
+
+Working to gain Front End Development knowledge
